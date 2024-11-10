@@ -5,6 +5,9 @@
         <group name="P3MS/SEMS">
             <file>file:/C:/Users/marlon.andrade/Documents/NetBeansProjects/mandrader-plugins/.git/config</file>
         </group>
-        <group/>
+        <group>
+            <file>file:/C:/Users/Marlon/Documents/NetBeansProjects/netbeans-plugins/mandrader-plugins/nbproject/platform.properties</file>
+            <file>file:/C:/Users/Marlon/Documents/NetBeansProjects/netbeans-plugins/mandrader-plugins/nbproject/project.properties</file>
+        </group>
     </open-files>
 </project-private>
