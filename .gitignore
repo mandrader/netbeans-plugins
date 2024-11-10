@@ -1,0 +1,13 @@
+### Ignore NetBeans generated files ###
+**/target/
+**/build/
+**/**/nb-configuration.xml
+**/**/nbactions.xml
+/nbbuild/
+**/classes/
+**/generated-sources/
+**/META-INF/
+/plugins/children/jsf-javaee8/nbproject/private/
+/plugins/children/lombok-1.18.32/nbproject/private/
+/plugins/children/jackson-2.15.4/nbproject/private/
+/mandrader-plugins/children/ant-project-type/nbproject/private/

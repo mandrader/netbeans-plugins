@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.mandrader.sv.netbeans.projects.types
+OpenIDE-Module-Localizing-Bundle: org/mandrader/sv/netbeans/projects/types/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0.5
+
